@@ -1,7 +1,7 @@
 ---
-title: Page 2
-nav order: 3
+title: 01-SQL
+# layout: home
+nav order: 2
 ---
-# Page 3
 
-This is Page 4.
+# SQL
