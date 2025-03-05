@@ -1,28 +1,27 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://daianeklein.github.io/data-and-tech-notes
-
-# aux_links:
-#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-plugins:
-  - jekyll-default-layout
-
 # title: Just the Docs Template
-# description: A starter template for a Jekyll site using the Just the Docs theme!
+# description: A starter template for a Jeykll site using the Just the Docs theme!
 # theme: just-the-docs
 
 # url: https://daianeklein.github.io/data-and-tech-notes
 
-# # aux_links:
-# Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# plugins:
+#   - jekyll-default-layout
 
-# Enable sorting based on `nav_order`
-# just_the_docs:
-#   collections:
-#     pages:
-#       nav_sort: true
 
+
+
+title: Just the Docs Template
+description: A starter template for a Jekyll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://daianeklein.github.io/data-and-tech-notes
+
+plugins:
+  - jekyll-default-layout
+
+# Enable ordered navigation
+nav_order: 1
+
+# Sidebar navigation structure
+nav_sort: case_insensitive
 
