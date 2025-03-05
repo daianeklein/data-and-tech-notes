@@ -9,6 +9,8 @@ has_children: true
 
 Here are some SQL problems from LeetCode.
 
-- [#1757. Recyclable and Low Fat Products](file1.html)
-- [Problem 2](file2.html)
-- [Problem 3](file3.html)
+- [Recyclable and low fat products](file1.html)
+- [Find customer referee](file2.html)
+- [Big countries](file3.html)
+- [Article Views I](file4.html)
+- [Invalid Tweets](file5.html)
